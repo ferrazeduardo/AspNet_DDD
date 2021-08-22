@@ -9,13 +9,9 @@
       "Data/1.0.0": {
         "dependencies": {
           "Domain": "1.0.0",
-<<<<<<< HEAD
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.9",
           "Microsoft.EntityFrameworkCore": "5.0.9",
           "Microsoft.EntityFrameworkCore.Design": "5.0.9",
-=======
-          "Microsoft.EntityFrameworkCore": "5.0.8",
->>>>>>> eduardo
           "Microsoft.EntityFrameworkCore.Tools": "5.0.8",
           "MySql.EntityFrameworkCore": "5.0.5"
         },
@@ -85,7 +81,6 @@
           }
         }
       },
-<<<<<<< HEAD
       "Microsoft.AspNetCore.Cryptography.Internal/5.0.9": {
         "runtime": {
           "lib/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
@@ -122,13 +117,6 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Abstractions": "5.0.9",
           "Microsoft.EntityFrameworkCore.Analyzers": "5.0.9",
-=======
-      "Microsoft.CSharp/4.7.0": {},
-      "Microsoft.EntityFrameworkCore/5.0.8": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Abstractions": "5.0.8",
-          "Microsoft.EntityFrameworkCore.Analyzers": "5.0.8",
->>>>>>> eduardo
           "Microsoft.Extensions.Caching.Memory": "5.0.0",
           "Microsoft.Extensions.DependencyInjection": "5.0.2",
           "Microsoft.Extensions.Logging": "5.0.0",
@@ -138,7 +126,6 @@
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.dll": {
-<<<<<<< HEAD
             "assemblyVersion": "5.0.9.0",
             "fileVersion": "5.0.921.36501"
           }
@@ -169,59 +156,18 @@
       "Microsoft.EntityFrameworkCore.Relational/5.0.9": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.9",
-=======
-            "assemblyVersion": "5.0.8.0",
-            "fileVersion": "5.0.821.31512"
-          }
-        }
-      },
-      "Microsoft.EntityFrameworkCore.Abstractions/5.0.8": {
-        "runtime": {
-          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Abstractions.dll": {
-            "assemblyVersion": "5.0.8.0",
-            "fileVersion": "5.0.821.31512"
-          }
-        }
-      },
-      "Microsoft.EntityFrameworkCore.Analyzers/5.0.8": {},
-      "Microsoft.EntityFrameworkCore.Design/5.0.8": {
-        "dependencies": {
-          "Humanizer.Core": "2.8.26",
-          "Microsoft.CSharp": "4.7.0",
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.8"
-        },
-        "runtime": {
-          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {
-            "assemblyVersion": "5.0.8.0",
-            "fileVersion": "5.0.821.31512"
-          }
-        }
-      },
-      "Microsoft.EntityFrameworkCore.Relational/5.0.8": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "5.0.8",
->>>>>>> eduardo
           "Microsoft.Extensions.Configuration.Abstractions": "5.0.0"
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Relational.dll": {
-<<<<<<< HEAD
             "assemblyVersion": "5.0.9.0",
             "fileVersion": "5.0.921.36501"
-=======
-            "assemblyVersion": "5.0.8.0",
-            "fileVersion": "5.0.821.31512"
->>>>>>> eduardo
           }
         }
       },
       "Microsoft.EntityFrameworkCore.Tools/5.0.8": {
         "dependencies": {
-<<<<<<< HEAD
           "Microsoft.EntityFrameworkCore.Design": "5.0.9"
-=======
-          "Microsoft.EntityFrameworkCore.Design": "5.0.8"
->>>>>>> eduardo
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
@@ -280,7 +226,6 @@
           }
         }
       },
-<<<<<<< HEAD
       "Microsoft.Extensions.Identity.Core/5.0.9": {
         "dependencies": {
           "Microsoft.AspNetCore.Cryptography.KeyDerivation": "5.0.9",
@@ -307,8 +252,6 @@
           }
         }
       },
-=======
->>>>>>> eduardo
       "Microsoft.Extensions.Logging/5.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "5.0.2",
@@ -400,11 +343,7 @@
       },
       "MySql.EntityFrameworkCore/5.0.5": {
         "dependencies": {
-<<<<<<< HEAD
           "Microsoft.EntityFrameworkCore.Relational": "5.0.9",
-=======
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.8",
->>>>>>> eduardo
           "MySql.Data": "8.0.26"
         },
         "runtime": {
@@ -571,7 +510,6 @@
       "path": "k4os.hash.xxhash/1.0.6",
       "hashPath": "k4os.hash.xxhash.1.0.6.nupkg.sha512"
     },
-<<<<<<< HEAD
     "Microsoft.AspNetCore.Cryptography.Internal/5.0.9": {
       "type": "package",
       "serviceable": true,
@@ -593,8 +531,6 @@
       "path": "microsoft.aspnetcore.identity.entityframeworkcore/5.0.9",
       "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.5.0.9.nupkg.sha512"
     },
-=======
->>>>>>> eduardo
     "Microsoft.CSharp/4.7.0": {
       "type": "package",
       "serviceable": true,
@@ -602,7 +538,6 @@
       "path": "microsoft.csharp/4.7.0",
       "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
     },
-<<<<<<< HEAD
     "Microsoft.EntityFrameworkCore/5.0.9": {
       "type": "package",
       "serviceable": true,
@@ -637,42 +572,6 @@
       "sha512": "sha512-rGXoju3HtnxtdYlH7/lOyVlKJ9fZSwORukVCN250Aub2gx9bEmfXlDHeM9Gw9bkeunLEx3OoqL6DAz9VW8YTJA==",
       "path": "microsoft.entityframeworkcore.relational/5.0.9",
       "hashPath": "microsoft.entityframeworkcore.relational.5.0.9.nupkg.sha512"
-=======
-    "Microsoft.EntityFrameworkCore/5.0.8": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-UzHZDWma5jJaDMBGnfsBC1h0+1bPzAZmEGnmEMy9xdn4UkO9yvrG7m0deRazvU98Ezoa9pqi4Bsp07WR8p8HUA==",
-      "path": "microsoft.entityframeworkcore/5.0.8",
-      "hashPath": "microsoft.entityframeworkcore.5.0.8.nupkg.sha512"
-    },
-    "Microsoft.EntityFrameworkCore.Abstractions/5.0.8": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-twdaHC6Jy3Gzcr7qHBvgQi0q1mWJVJtrqkFcw21IFE/+1KkMTGOamV88vgPZY1NBZqnbdv1K83otDsUg9EO5ow==",
-      "path": "microsoft.entityframeworkcore.abstractions/5.0.8",
-      "hashPath": "microsoft.entityframeworkcore.abstractions.5.0.8.nupkg.sha512"
-    },
-    "Microsoft.EntityFrameworkCore.Analyzers/5.0.8": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-iXH3FyGochg9ZePG1VQwVT3YGsvhn8jmQkhi7iIKfa16xgSevpa9jhKDflFSMZ9xI9xWAsOAiG+H+pG6Jsw/3w==",
-      "path": "microsoft.entityframeworkcore.analyzers/5.0.8",
-      "hashPath": "microsoft.entityframeworkcore.analyzers.5.0.8.nupkg.sha512"
-    },
-    "Microsoft.EntityFrameworkCore.Design/5.0.8": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-GTAQ6Lr5XK5YV3/1AF/jLbnrkAsIhX8IhiYSnROHVIsCjij77chKdTl7JSFEe65QIJ1UKutGyKp15jGqLcBV7g==",
-      "path": "microsoft.entityframeworkcore.design/5.0.8",
-      "hashPath": "microsoft.entityframeworkcore.design.5.0.8.nupkg.sha512"
-    },
-    "Microsoft.EntityFrameworkCore.Relational/5.0.8": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-TGXfQdij08bjxpXNzC/LxOf1Q18eLdACZZpWUCHcVKssk6750ElE0MhX3eBmvRnSof1FrjsWJkYEchV6PSjGOg==",
-      "path": "microsoft.entityframeworkcore.relational/5.0.8",
-      "hashPath": "microsoft.entityframeworkcore.relational.5.0.8.nupkg.sha512"
->>>>>>> eduardo
     },
     "Microsoft.EntityFrameworkCore.Tools/5.0.8": {
       "type": "package",
@@ -716,7 +615,6 @@
       "path": "microsoft.extensions.dependencyinjection.abstractions/5.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
     },
-<<<<<<< HEAD
     "Microsoft.Extensions.Identity.Core/5.0.9": {
       "type": "package",
       "serviceable": true,
@@ -731,8 +629,6 @@
       "path": "microsoft.extensions.identity.stores/5.0.9",
       "hashPath": "microsoft.extensions.identity.stores.5.0.9.nupkg.sha512"
     },
-=======
->>>>>>> eduardo
     "Microsoft.Extensions.Logging/5.0.0": {
       "type": "package",
       "serviceable": true,
