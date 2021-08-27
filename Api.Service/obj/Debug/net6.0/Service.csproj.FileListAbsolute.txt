@@ -10,10 +10,8 @@ C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Service\obj\Debug\net6.0\Serv
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Service\obj\Debug\net6.0\Service.dll
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Service\obj\Debug\net6.0\ref\Service.dll
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Service\obj\Debug\net6.0\Service.pdb
-C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Service\bin\Debug\net6.0\CrossCutting.dll
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Service\bin\Debug\net6.0\Data.dll
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Service\bin\Debug\net6.0\Domain.dll
-C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Service\bin\Debug\net6.0\CrossCutting.pdb
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Service\bin\Debug\net6.0\Data.pdb
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Service\bin\Debug\net6.0\Domain.pdb
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Service\obj\Debug\net6.0\Service.csproj.CopyComplete

@@ -535,16 +535,6 @@
           }
         }
       },
-      "CrossCutting/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/CrossCutting.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CrossCutting.dll": {}
-        }
-      },
       "Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1623,11 +1613,6 @@
         "version.txt"
       ]
     },
-    "CrossCutting/1.0.0": {
-      "type": "project",
-      "path": "../Api.CrossCutting/CrossCutting.csproj",
-      "msbuildProject": "../Api.CrossCutting/CrossCutting.csproj"
-    },
     "Data/1.0.0": {
       "type": "project",
       "path": "../Api.Data/Data.csproj",
@@ -1641,7 +1626,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "CrossCutting >= 1.0.0",
       "Data >= 1.0.0",
       "Domain >= 1.0.0"
     ]
@@ -1680,9 +1664,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ebferraz\\Documents\\Api_AspNet_DDD\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\ebferraz\\Documents\\Api_AspNet_DDD\\src\\Api.CrossCutting\\CrossCutting.csproj"
-            },
             "C:\\Users\\ebferraz\\Documents\\Api_AspNet_DDD\\src\\Api.Data\\Data.csproj": {
               "projectPath": "C:\\Users\\ebferraz\\Documents\\Api_AspNet_DDD\\src\\Api.Data\\Data.csproj"
             },
