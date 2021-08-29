@@ -1,6 +1,7 @@
 ﻿using Data.Context;
 using Data.Repository;
 using Domain.Interfaces;
+using Domain.Interfaces.Repository;
 using Domain.Interfaces.Services.User;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -19,9 +20,10 @@ namespace CrossCutting.DependencyInjection
     {
         public static void ConfigureDependenciesRepository(IServiceCollection serviceCollecttion, IConfiguration Configuration)
         {
+
             serviceCollecttion.AddScoped(typeof(IRepository<>),typeof(BaseRepository<>));
             serviceCollecttion.AddDbContext<MyContext>(options => options.UseMySQL(Configuration.GetConnectionString("DbDDD")));
-
+            serviceCollecttion.AddScoped<IUserRepository, UserImplementation>();
         }
     }
 }
