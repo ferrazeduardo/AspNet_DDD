@@ -1,4 +1,4 @@
-﻿using Domain.Entities;
+﻿using Domain.DTO;
 using Domain.Interfaces.Services.User;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
@@ -10,21 +10,21 @@ public class LoginController : ControllerBase
 {
 
 
-    public async Task<object> Login([FromBody] UserEntity userEntity, [FromServices] ILoginService loginService)
+    public async Task<object> Login([FromBody] LoginDTO loginDTO, [FromServices] ILoginService loginService)
     {
         if (!ModelState.IsValid)
         {
             return BadRequest();
         }
 
-        if (userEntity == null)
+        if (loginDTO == null)
         {
             return BadRequest();
         }
 
         try
         {
-            var result = await loginService.FindByLogin(userEntity);
+            var result = await loginService.FindByLogin(loginDTO);
 
             if (result != null)
             {

@@ -17,3 +17,4 @@ C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.CrossCutting\bin\Debug\net6.0
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.CrossCutting\obj\Debug\net6.0\CrossCutting.csproj.CopyComplete
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.CrossCutting\bin\Debug\net6.0\Service.dll
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.CrossCutting\bin\Debug\net6.0\Service.pdb
+C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.CrossCutting\obj\Debug\net6.0\CrossCutting.ImplicitNamespaceImports.cs

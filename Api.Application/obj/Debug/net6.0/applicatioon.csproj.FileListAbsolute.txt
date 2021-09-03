@@ -17,7 +17,6 @@ C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\applicatioon.csproj.CoreCompileInputs.cache
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\applicatioon.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\applicatioon.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\staticwebassets\applicatioon.StaticWebAssets.Manifest.cache
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\scopedcss\bundle\applicatioon.styles.css
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\applicatioon.csproj.CopyComplete
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\applicatioon.dll
@@ -58,3 +57,9 @@ C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\bin\Debug\net6.0\
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\bin\Debug\net6.0\Data.pdb
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\bin\Debug\net6.0\applicatioon.staticwebassets.json
+C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\bin\Debug\net6.0\applicatioon.staticwebassets.runtime.json
+C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\bin\Debug\net6.0\applicatioon.StaticWebAssets.xml
+C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\applicatioon.ImplicitNamespaceImports.cs
+C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\applicatioon.StaticWebAssets.xml
+C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\StaticWebAssets.build.json
