@@ -1,7 +1,10 @@
 ﻿using Domain.DTO;
 using Domain.Interfaces.Services.User;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Net;
+using System.Threading.Tasks;
 
 namespace applicatioon.Controllers;
 [Route("api/[controller]")]
@@ -9,8 +12,9 @@ namespace applicatioon.Controllers;
 public class LoginController : ControllerBase
 {
 
-
-    public async Task<object> Login([FromBody] LoginDTO loginDTO, [FromServices] ILoginService loginService)
+    [AllowAnonymous]
+    [HttpPost]
+    public async Task<object> LoginUsuario([FromBody] LoginDTO loginDTO, [FromServices] ILoginService loginService)
     {
         if (!ModelState.IsValid)
         {

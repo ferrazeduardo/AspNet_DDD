@@ -1,5 +1,5 @@
 ﻿using Domain.DTO;
-
+using System.Threading.Tasks;
 
 namespace Domain.Interfaces.Services.User
 {

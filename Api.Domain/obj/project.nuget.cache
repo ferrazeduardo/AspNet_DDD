@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ysuJV8yWcNJeyxUfvrNi0Fp6rFjzcilp9vkgzodMDkvFNtFCVZzOjyp8x1srAmSCPTwFjyFzgkrXYZDiKYjTyA==",
+  "dgSpecHash": "nRalxZekDKXyZ20PjZphg0t9uNq4O8xBdJWYrvSCTJmXPr7WuSqGAxNaQjuNamFQFvD6Jeo8vr5yaLhIFa6GGQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ebferraz\\Documents\\Api_AspNet_DDD\\src\\Api.Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ebferraz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\ebferraz\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\microsoft.identitymodel.jsonwebtokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\ebferraz\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
+    "C:\\Users\\ebferraz\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\ebferraz\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\system.identitymodel.tokens.jwt.6.12.2.nupkg.sha512",
+    "C:\\Users\\ebferraz\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

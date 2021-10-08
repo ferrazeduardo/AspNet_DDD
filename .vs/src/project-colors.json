@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc635ba3-16ae-4f41-9a12-254c49e21220": {
+      "ProjectGuid": "bc635ba3-16ae-4f41-9a12-254c49e21220",
+      "DisplayName": "applicatioon",
+      "ColorIndex": 0
+    },
+    "ec86de94-89c2-44fa-b6ad-61cc05edbea8": {
+      "ProjectGuid": "ec86de94-89c2-44fa-b6ad-61cc05edbea8",
+      "DisplayName": "Service",
+      "ColorIndex": 1
+    },
+    "278f1c5b-8c9c-4f31-b8b1-128028c4874d": {
+      "ProjectGuid": "278f1c5b-8c9c-4f31-b8b1-128028c4874d",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    },
+    "66ee104e-5c05-43b0-b985-eb425e7dccd1": {
+      "ProjectGuid": "66ee104e-5c05-43b0-b985-eb425e7dccd1",
+      "DisplayName": "CrossCutting",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
