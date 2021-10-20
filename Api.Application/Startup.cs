@@ -18,6 +18,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
+using CrossCutting.Mappings;
+using AutoMapper;
 
 namespace applicatioon
 {
@@ -35,6 +37,16 @@ public void ConfigureServices(IServiceCollection services)
 {
             ConfigureService.ConfigureDependenciesService(services);
             ConfigureRepository.ConfigureDependenciesRepository(services, Configuration);
+
+            var config = new AutoMapper.MapperConfiguration(cfg =>
+            {
+                cfg.AddProfile(new dtoToModel());
+                cfg.AddProfile(new ModelToEntityProfile());
+                cfg.AddProfile(new EntityToDTOProfile());
+            });
+
+            IMapper mapper = config.CreateMapper();
+            services.AddSingleton(mapper);
 
             var signingConfiguration = new SigningConfiguration();
             services.AddSingleton(signingConfiguration);

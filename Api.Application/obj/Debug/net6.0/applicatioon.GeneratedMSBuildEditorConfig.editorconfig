@@ -10,6 +10,7 @@ build_property.RootNamespace = applicatioon
 build_property.RootNamespace = applicatioon
 build_property.ProjectDir = C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\
 build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application
 build_property._RazorSourceGeneratorDebug = 

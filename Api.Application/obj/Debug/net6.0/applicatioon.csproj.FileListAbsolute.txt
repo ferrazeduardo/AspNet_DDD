@@ -61,8 +61,9 @@ C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\scopedcss\bundle\applicatioon.styles.css
-C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\applicatioon.csproj.CopyComplete
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\applicatioon.dll
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\ref\applicatioon.dll
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\applicatioon.pdb
 C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\applicatioon.genruntimeconfig.cache
+C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\bin\Debug\net6.0\applicatioon.staticwebassets.runtime.json
+C:\Users\ebferraz\Documents\Api_AspNet_DDD\src\Api.Application\obj\Debug\net6.0\applicatioon.csproj.CopyComplete

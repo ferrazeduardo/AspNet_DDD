@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2Z4ghYRCFQV2mpkbQBQ2neZ/ZE0KUQKd/uMdnATSTwHQzI4abV034e3y1qzBqFGey+PO+aNCgmaXFYQzZnZ8lQ==",
+  "dgSpecHash": "Va3W1T1dy5AhuSDO2DBx92Hg9Qfr+FRapWyXGmwgUzqAWbOp8cns83PBCfw+idaXX4wONji8FRQO+wHiJsO8cQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ebferraz\\Documents\\Api_AspNet_DDD\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [

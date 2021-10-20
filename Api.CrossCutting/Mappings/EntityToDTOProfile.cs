@@ -14,7 +14,7 @@ namespace CrossCutting.Mappings
 
         public EntityToDTOProfile()
         {
-            CreateMap<UserDTO, UserEntity>()
+            CreateMap<UserDTOCreate, UserEntity>()
                 .ReverseMap();
 
             CreateMap<UserDTOCreateResult, UserEntity>()
